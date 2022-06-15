@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+#header{
+    background-color: white;
+    margin-top: -20px;
+    padding: 10px ;
+    box-shadow: 10px 10px 10px yellowgreen;
+}
+
+#footer{
+    background-color: white;
+   position: fixed  ;
+   bottom: 0;
+   width: 100%;
+    /* line-height: 2; */
+    padding: 10px;
+    text-shadow: 2px 2px red;
+}
